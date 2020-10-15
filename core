@@ -1,0 +1,3 @@
+npx peterthehan/create-discord-bot
+cd my-discord-bot/
+npm start
