@@ -1,0 +1,16 @@
+src/
+  widgets/
+    command/
+      handlers/
+        ready.js
+        message.js
+    widget1/
+      handlers/
+        messageReactionAdd.js
+        messageUpdate.js
+        other event handlers
+    widget2/
+      handlers/
+        typingStart.js
+        userUpdate.js
+        other event handlers
